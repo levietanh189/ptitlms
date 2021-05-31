@@ -92,23 +92,7 @@
         </div>
       </div>
 
-      <footer class="footer">
-        <div class="container-fluid">
-          <nav class="pull-left">
-            <ul>
-              <li>
-                <a href="#">
-                  Quản lý khách hàng
-                </a>
-              </li>
-
-            </ul>
-          </nav>
-          <p class="copyright pull-right">
-            Made by Lê Việt Anh
-          </p>
-        </div>
-      </footer>
+     
 
     </div>
     <div class="col-md-2"></div>
